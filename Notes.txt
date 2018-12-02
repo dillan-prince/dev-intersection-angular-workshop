@@ -1,0 +1,2 @@
+Link to the slide deck:
+	http://codewithdan.me/ng-ts-1-day
