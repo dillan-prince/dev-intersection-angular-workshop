@@ -1,2 +1,12 @@
 Link to the slide deck:
 	http://codewithdan.me/ng-ts-1-day
+	
+Typescript tutorial:
+	http://www.typescriptlang.org/Playground
+	
+Difference between let and var:
+	var: hoists declaration to top of scope (function level)
+	let: defines variable in the scope where it is written (block-level)
+	
+Angular style guide:
+	https://angular.io/guide/styleguide
