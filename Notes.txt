@@ -10,3 +10,13 @@ Difference between let and var:
 	
 Angular style guide:
 	https://angular.io/guide/styleguide
+	
+Angular Console:
+	angularconsole.com
+	Visual app for the Angular CLI
+	
+Commands:
+	ng new <project name> <parameters> 
+	ng g(enerate) <template name> <parameters>
+	
+import { HttpCientModule } from '@angular/common/http'
